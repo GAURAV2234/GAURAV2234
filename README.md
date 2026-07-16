@@ -377,8 +377,6 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
   <img src="https://raw.githubusercontent.com/GAURAV2234/GAURAV2234/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph" width="100%"/>
 </p>
 
-<p align="center"><i>⚙️ One-time setup needed: add the included <code>snake.yml</code> workflow to <code>.github/workflows/</code> in your <code>GAURAV2234/GAURAV2234</code> repo. It'll run automatically and this snake will start animating through your real contribution graph within ~15 minutes.</i></p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dynamic quote" />
 </p>
