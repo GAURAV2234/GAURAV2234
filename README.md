@@ -21,7 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GAURAV2234&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/GAURAV2234?label=Followers&style=for-the-badge&color=8B5CF6" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-10B981?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
 </p>
@@ -378,6 +377,8 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
   <img src="https://raw.githubusercontent.com/GAURAV2234/GAURAV2234/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph" width="100%"/>
 </p>
 
+<p align="center"><i>⚙️ One-time setup needed: add the included <code>snake.yml</code> workflow to <code>.github/workflows/</code> in your <code>GAURAV2234/GAURAV2234</code> repo. It'll run automatically and this snake will start animating through your real contribution graph within ~15 minutes.</i></p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dynamic quote" />
 </p>
@@ -389,6 +390,10 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
 <!-- Spotify widget placeholder — set up via https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
   <img src="https://novatorem-YOUR-VERCEL-APP.vercel.app/api/spotify" width="400" alt="spotify placeholder"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GAURAV2234&label=Profile%20Visitors&color=38bdf8&style=for-the-badge" alt="profile visitor count" />
 </p>
 
 <p align="center">
