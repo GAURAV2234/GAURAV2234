@@ -18,8 +18,6 @@
   <a href="mailto:gauravgg.74.gg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://gaurav2234.github.io/Portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://x.com/GuptaG010"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <!-- ^ Replace YOUR-LEETCODE-USERNAME with your actual handle -->
 </p>
 
 <p align="center">
@@ -38,7 +36,9 @@
 name: "Gaurav Gupta"
 role: "B.Tech CSE (Artificial Intelligence & Machine Learning)"
 university: "SRM Institute of Science and Technology (SRMIST), KTR Campus"
-location: "India 🇮🇳"
+cgpa: "9.46 / 10"
+location: "Chennai, Tamil Nadu, India 🇮🇳"
+background: "NCC Naval Wing Cadet ('C' Certificate) · Military family background"
 interests:
   - Artificial Intelligence      - Generative AI
   - Machine Learning             - Large Language Models (LLMs)
@@ -66,6 +66,7 @@ mission: "Building intelligent systems that solve real-world problems."
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 <h4 align="center">AI & Machine Learning</h4>
@@ -79,6 +80,7 @@ mission: "Building intelligent systems that solve real-world problems."
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LoRA-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANN%20%7C%20CNN-EF4444?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/YOLOv7%2Fv11-EF4444?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TransUNet-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
@@ -92,14 +94,24 @@ mission: "Building intelligent systems that solve real-world problems."
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
+<h4 align="center">CS Fundamentals & Other Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,tensorflow,pytorch,sklearn,flask,fastapi,firebase,supabase,git,github,vscode,opencv,kotlin,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/DSA-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networking-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ServiceNow%20Scripting-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-334155?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,tensorflow,pytorch,sklearn,flask,fastapi,react,firebase,supabase,git,github,vscode,opencv,kotlin,androidstudio&theme=dark" />
 </p>
 
 <p align="center">
@@ -112,31 +124,30 @@ mission: "Building intelligent systems that solve real-world problems."
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Voice-Based AI Feedback Management System
-AI-powered voice feedback platform that captures, transcribes, and analyzes user feedback in real time using LLMs and speech recognition.
+### 🎙️ The Matrix — Voice-Based AI Feedback System
+Voice-based student feedback platform that captures, transcribes, and analyzes real-time verbal feedback for faculty and administrators.
 
-<img src="https://img.shields.io/badge/LLM-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Speech%20Recognition-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
 
 **Key Features**
-- Real-time voice-to-text transcription
-- LLM-powered feedback summarization
-- Sentiment & intent analysis pipeline
-- RAG-based contextual response generation
+- Real-time voice-to-text transcription & analysis
+- LLM + RAG pipeline for actionable feedback insights
+- Built with privacy, scalability & transparency in mind
 
-🔗 `github.com/GAURAV2234/voice-feedback-system` <!-- Replace with actual repo link -->
+🔗 `github.com/GAURAV2234/the-matrix` <!-- Replace with actual repo link -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 Weld Defect Detection using TransUNet
-Deep learning-based image segmentation system to detect and classify weld defects, built during a DRDO internship.
+### 🔬 Weld Defect Detection & Segmentation (DRDO)
+Deep learning pipeline for detecting and segmenting weld defects in defense-grade manufacturing, built during a DRDL (DRDO) research internship.
 
-<img src="https://img.shields.io/badge/Deep%20Learning-EF4444?style=flat-square"/> <img src="https://img.shields.io/badge/Segmentation-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Computer%20Vision-38BDF8?style=flat-square"/> <img src="https://img.shields.io/badge/TransUNet-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/TransUNet-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/YOLOv7%2Fv11-EF4444?style=flat-square"/> <img src="https://img.shields.io/badge/ANN%20%7C%20CNN-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/LabelMe-38BDF8?style=flat-square"/>
 
 **Key Features**
 - Transformer + U-Net hybrid segmentation architecture
-- Pixel-level defect localization
-- Built and validated under DRDO research guidance
+- Image annotation, preprocessing & augmentation pipeline
+- Benchmarked with Precision, Recall, F1-score & mAP
 
 🔗 `github.com/GAURAV2234/weld-defect-transunet` <!-- Replace with actual repo link -->
 
@@ -145,23 +156,55 @@ Deep learning-based image segmentation system to detect and classify weld defect
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 AI Information Retrieval System
-A document search engine leveraging NLP and vector embeddings for semantic search over large document corpora.
+### 🧠 DocMind — Offline Document Intelligence
+Privacy-first, fully offline AI system enabling secure document Q&A using a locally hosted LLM — built for legal, academic & healthcare domains.
 
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Vector%20Embeddings-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Search-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Local%20LLM-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Sentence%20Transformers-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-10B981?style=flat-square"/>
 
 **Key Features**
-- Semantic search using vector similarity
-- Embedding-based document ranking
-- Scalable retrieval pipeline
+- 100% offline inference — no internet or external APIs
+- Vector search via Sentence Transformers + ChromaDB
+- Secure document parsing (PyPDF) for sensitive domains
 
-🔗 `github.com/GAURAV2234/ai-information-retrieval` <!-- Replace with actual repo link -->
+🔗 `github.com/GAURAV2234/docmind` <!-- Replace with actual repo link -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Web-Authenticity Checker
+Flask-based web app that analyzes structural & behavioral URL patterns to flag suspicious links and assess trustworthiness.
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/HTML%2FCSS-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/Cybersecurity-EF4444?style=flat-square"/>
+
+**Key Features**
+- Server-side URL pattern & structural analysis
+- Input validation and secure coding practices
+- MySQL-backed persistence layer
+
+🔗 `github.com/GAURAV2234/web-authenticity-checker` <!-- Replace with actual repo link -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ Pixel Harbor
+Python GUI application consolidating multiple digital image processing operations into a single unified platform.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/Image%20Processing-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/GUI-10B981?style=flat-square"/>
+
+**Key Features**
+- Multiple image-processing tools in one interface
+- Removes need for switching between separate tools
+- Focused on accessibility & efficiency
+
+🔗 `github.com/GAURAV2234/pixel-harbor` <!-- Replace with actual repo link -->
 
 </td>
 <td width="50%" valign="top">
 
 ### 👥 Team Builder AI
-An Android application that intelligently matches students/professionals into teams using AI-based compatibility scoring.
+Android application that intelligently matches students/professionals into teams using AI-based compatibility scoring.
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/>
 
@@ -185,32 +228,43 @@ An Android application that intelligently matches students/professionals into te
 ## 💼 Experience
 
 ```text
-2024 ── AI & ML Intern — PRAG Group of Industries
-        • Designed and implemented ML pipelines for industrial use cases
-        • Collaborated cross-functionally to deploy AI-driven solutions
+Jun 2025 – Jul 2025  ── AI/ML Research Intern — DRDL, DRDO (AI Division), Telangana
+        • Built weld-defect detection & segmentation models using ANN, CNN, YOLOv7/YOLOv11 and TransUNet
+        • Annotated datasets in LabelMe; applied preprocessing & augmentation to improve model accuracy
+        • Benchmarked models using Precision, Recall, F1-score & mAP for real-time deployment readiness
 
-2024 ── Research Intern — DRDO (DRDL AI Division)
-        • Worked on deep learning-based image segmentation for defect detection
-        • Built TransUNet-based models for weld defect analysis
-        • Contributed to internal research documentation & evaluation
+Jun 2024 – Jul 2024  ── AI & ML Intern — PRAG Group of Industries, Lucknow
+        • Built an AI-powered file retrieval module using TF-IDF & Random Forest
+        • Applied Python, NLP and supervised learning for automated text classification
+        • Delivered an end-to-end retrieval system, improving accuracy & speed
 
-2023 ── Technical Intern — M/s Gaurav Sanjivani Technicals
-        • Assisted in technical development and support tasks
-        • Gained hands-on exposure to real-world engineering workflows
+Jun 2024 – Aug 2024  ── IT / Computer Engineer Intern — Gaurav Sanjivani Technicals, Lucknow
+        • Handled system troubleshooting, software installs, automation scripting & network configuration
+        • Built and shipped a company website page; documented IT processes & workflows
 ```
 
-## 📚 Research
+## 📚 Research & Publications
 
 **📄 ICVGIP 2024 — ViDAS: Vision-based Danger Assessment and Scoring**
 Research contribution accepted at the Indian Conference on Vision, Graphics and Image Processing.
 
+**📖 Book Chapter (Co-authored) — *Emotionally Intelligent AI Assistant Powered by Machine Learning and NLP***
+Published by Scrivener Publishing.
+
 **Research Interests:** Computer Vision · Medical AI · Large Language Models · Generative AI · Human-AI Interaction
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow%20Certified%20System%20Administrator-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ## 🎖️ Leadership
 
-- 🏛️ **Discipline Secretary** — Directorate of Student Affairs
-- 🎉 **Head of Event Management** — CINTEL Association
-- ⚓ **NCC Naval Wing** — Cadet
+- 🏛️ **Discipline Convenor** — Directorate of Student Affairs, SRMIST *(Sep 2024 – Apr 2025)*
+- 🎉 **Head of Event Management** — CINTEL Student Association, SRMIST *(Feb 2024 – Present)*
+- ⚓ **Naval Wing Cadet** — NCC, 'C' Certificate (highest grade) *(Sep 2022 – Feb 2025)*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:8B5CF6,100:10B981&height=4&width=100%25" width="100%"/>
@@ -222,13 +276,24 @@ Research contribution accepted at the Indian Conference on Vision, Graphics and 
 
 | 🏆 Achievement |
 |---|
-| Top 20 Student selected for **ANU Australia's Future Research Talent Program** |
+| Top 20 Student — **ANU Australia's Future Research Talent Program** |
 | Published Research — **ICVGIP 2024 (ViDAS)** |
+| Co-authored Book Chapter — **Scrivener Publishing** |
 | 🥇 **CodeFest Winner** |
 | ✅ **260+ DSA Problems Solved** |
-| 🎖️ **NCC 'C' Certificate** |
+| 🎓 **JEE (2022) — 84.35 Percentile** |
+| 🎖️ **NCC 'C' Certificate (Naval Wing)** |
 
 </div>
+
+## 🎯 Beyond the Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏊_3x_National_Swimmer-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🐴_Equestrian_Show_Jumper-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤿_Certified_Scuba_Diver-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🥋_Purple_Belt_Karate-10B981?style=flat-square"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:8B5CF6,100:10B981&height=4&width=100%25" width="100%"/>
@@ -251,22 +316,11 @@ Research contribution accepted at the Indian Conference on Vision, Graphics and 
 </p>
 
 <details>
-<summary>✨ Bonus animated widgets (require a one-time GitHub Action setup — instructions inside)</summary>
+<summary>✨ Bonus: 3D isometric contribution calendar (optional, separate one-time setup)</summary>
 
-**🐍 Snake contribution animation**
-1. In your `GAURAV2234/GAURAV2234` repo, add the workflow from [`Platane/snk`](https://github.com/Platane/snk).
-2. It generates an `output` branch containing the animated SVG.
-3. Once live, add this line back into your README:
-```md
-![snake animation](https://raw.githubusercontent.com/GAURAV2234/GAURAV2234/output/github-contribution-grid-snake-dark.svg)
-```
-
-**🧊 3D / Isometric contribution calendar**
 1. Add the workflow from [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) to your profile repo.
-2. It auto-generates a 3D contribution graph SVG/GIF on a schedule.
+2. It auto-generates a rotating 3D contribution graph SVG/GIF on a schedule.
 3. Embed the generated image path once it's live in your repo's `profile-3d-contrib` folder.
-
-> 💡 I've left these out of the live README above so you don't get a broken image before setup — add them back in once the Actions have run once.
 
 </details>
 
@@ -299,21 +353,25 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
   <a href="mailto:gauravgg.74.gg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://gaurav2234.github.io/Portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://x.com/GuptaG010"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR-GFG-USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <!-- ^ Replace LeetCode / GFG / Kaggle placeholders with your usernames -->
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:8B5CF6,100:10B981&height=4&width=100%25" width="100%"/>
 </p>
 
-## ☕ Fun Section
+## ☕ Fun Zone
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/master/Assets/Coding.gif" width="400" alt="coding gif"/>
 </p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GAURAV2234/GAURAV2234/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph" width="100%"/>
+</p>
+
+<p align="center"><i>⚙️ One-time setup needed: add the included <code>snake.yml</code> workflow to <code>.github/workflows/</code> in your <code>GAURAV2234/GAURAV2234</code> repo. It'll run automatically and this snake will start animating through your real contribution graph within ~15 minutes.</i></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dynamic quote" />
@@ -329,10 +387,6 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:8B5CF6,100:38BDF8&height=150&section=footer" width="100%"/>
 </p>
 
@@ -341,9 +395,9 @@ I'm actively looking to contribute to open-source projects in **AI/ML, Computer 
 <!--
 =====================================================
 📌 SETUP CHECKLIST — still to replace:
-1. LeetCode / GeeksforGeeks / Kaggle usernames (search "YOUR-" in this file)
-2. Repo links under "Featured Projects" -> your actual repo URLs
-3. Spotify widget & Buy Me a Coffee -> your own handles, or delete those lines
+1. Repo links under "Featured Projects" -> your actual repo URLs
+2. Spotify widget -> your own handle, or delete those lines
+3. Fun Zone interactive widget -> once we settle on a style (see chat)
 4. Snake animation & 3D contribution graph -> see the collapsible "Bonus animated widgets"
    section above for one-time GitHub Action setup steps
 5. Place this file in a repo named exactly "GAURAV2234"
